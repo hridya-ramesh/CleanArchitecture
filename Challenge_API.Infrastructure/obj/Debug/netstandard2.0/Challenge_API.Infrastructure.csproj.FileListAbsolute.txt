@@ -1,0 +1,14 @@
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\bin\Debug\netstandard2.0\Challenge_API.Infrastructure.deps.json
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\bin\Debug\netstandard2.0\Challenge_API.Infrastructure.dll
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\bin\Debug\netstandard2.0\Challenge_API.Infrastructure.pdb
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\bin\Debug\netstandard2.0\Challenge_API.Application.dll
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\bin\Debug\netstandard2.0\Challenge_API.Application.pdb
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\obj\Debug\netstandard2.0\Challenge_API.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\obj\Debug\netstandard2.0\Challenge_API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\obj\Debug\netstandard2.0\Challenge_API.Infrastructure.AssemblyInfo.cs
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\obj\Debug\netstandard2.0\Challenge_API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\obj\Debug\netstandard2.0\Challenge_API.Infrastructure.csproj.CopyComplete
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\obj\Debug\netstandard2.0\Challenge_API.Infrastructure.dll
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\obj\Debug\netstandard2.0\Challenge_API.Infrastructure.pdb
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\bin\Debug\netstandard2.0\Challenge_api.Domain.dll
+C:\Users\Likhil\source\repos\Test_API\Challenge_API.Infrastructure\bin\Debug\netstandard2.0\Challenge_api.Domain.pdb

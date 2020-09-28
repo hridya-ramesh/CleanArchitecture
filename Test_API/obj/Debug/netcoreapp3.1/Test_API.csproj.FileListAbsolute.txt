@@ -1,0 +1,10 @@
+C:\Users\Likhil\source\repos\Test_API\Test_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Likhil\source\repos\Test_API\Test_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Likhil\source\repos\Test_API\Test_API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Likhil\source\repos\Test_API\Test_API\bin\Debug\netcoreapp3.1\Test_API.exe
+C:\Users\Likhil\source\repos\Test_API\Test_API\obj\Debug\netcoreapp3.1\Test_API.csprojAssemblyReference.cache
+C:\Users\Likhil\source\repos\Test_API\Test_API\obj\Debug\netcoreapp3.1\Test_API.AssemblyInfoInputs.cache
+C:\Users\Likhil\source\repos\Test_API\Test_API\obj\Debug\netcoreapp3.1\Test_API.AssemblyInfo.cs
+C:\Users\Likhil\source\repos\Test_API\Test_API\obj\Debug\netcoreapp3.1\Test_API.RazorTargetAssemblyInfo.cache
+C:\Users\Likhil\source\repos\Test_API\Test_API\obj\Debug\netcoreapp3.1\staticwebassets\Test_API.StaticWebAssets.Manifest.cache
+C:\Users\Likhil\source\repos\Test_API\Test_API\obj\Debug\netcoreapp3.1\staticwebassets\Test_API.StaticWebAssets.xml

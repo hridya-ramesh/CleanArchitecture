@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWERShsC39aaEJUTS57jzy09NUOUwDTHqPh7nRWkYaI+HJ04ib2OC3ascWBX1Vas/VY802/DQCL8aX4F2JYEcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Likhil\\source\\repos\\Test_API\\Challenge_api.Domain\\Challenge_API.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Likhil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Likhil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

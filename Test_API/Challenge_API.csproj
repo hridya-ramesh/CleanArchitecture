@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Challenge_API.Application\Challenge_API.Application.csproj" />
+    <ProjectReference Include="..\Challenge_api.Domain\Challenge_API.Domain.csproj" />
+    <ProjectReference Include="..\Challenge_API.Infrastructure\Challenge_API.Infrastructure.csproj" />
+  </ItemGroup>
+
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\bin\Debug\netstandard2.0\Challenge_api.Domain.deps.json
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\bin\Debug\netstandard2.0\Challenge_api.Domain.dll
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\bin\Debug\netstandard2.0\Challenge_api.Domain.pdb
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\obj\Debug\netstandard2.0\Challenge_api.Domain.csprojAssemblyReference.cache
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\obj\Debug\netstandard2.0\Challenge_api.Domain.AssemblyInfoInputs.cache
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\obj\Debug\netstandard2.0\Challenge_api.Domain.AssemblyInfo.cs
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\obj\Debug\netstandard2.0\Challenge_api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\obj\Debug\netstandard2.0\Challenge_api.Domain.dll
+C:\Users\Likhil\source\repos\Test_API\Challenge_api.Domain\obj\Debug\netstandard2.0\Challenge_api.Domain.pdb
