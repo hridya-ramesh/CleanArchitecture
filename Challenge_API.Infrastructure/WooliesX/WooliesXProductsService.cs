@@ -65,7 +65,9 @@ namespace Challenge_API.Infrastructure.WooliesX
                 throw new ApplicationException($"{response.StatusCode} - Failed to retrieve shopper trolley details from API " + responseContent);
             }
             var trolleyResponse = await response.Content.ReadAsStringAsync();
-            return decimal.Parse(trolleyResponse);
+            decimal trolleyTotal;
+            decimal.TryParse(trolleyResponse,out  trolleyTotal);
+            return trolleyTotal;
         }
     }
 }
